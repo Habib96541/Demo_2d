@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: eb800291800b96b498befc37ed5efdd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -957923696931502276
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_0
+  - first:
+      213: 5663502918499325320
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_1
+  - first:
+      213: 1512014270482851764
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_2
+  - first:
+      213: 3992536292998244690
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_3
+  - first:
+      213: -4887259374455172571
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_4
+  - first:
+      213: 7871050792235274512
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_5
+  - first:
+      213: -4467597825688549264
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_6
+  - first:
+      213: 5367131536319636836
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_7
+  - first:
+      213: -5750410878572740916
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_8
+  - first:
+      213: 909887846553183316
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_9
+  - first:
+      213: 991931066356738616
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_10
+  - first:
+      213: 3361978823262454286
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_11
+  - first:
+      213: -2567791649908662291
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_12
+  - first:
+      213: -5280553640773944649
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_13
+  - first:
+      213: 664150352839477148
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_14
+  - first:
+      213: -6168814783375194210
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_15
+  - first:
+      213: -8620856056607091242
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_16
+  - first:
+      213: -7440778938725492039
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_17
+  - first:
+      213: -3386077403675420795
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_18
+  - first:
+      213: -496703430455740741
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_19
+  - first:
+      213: -2602683011089436685
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_20
+  - first:
+      213: 7155035688277875902
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_21
+  - first:
+      213: -8321471916236525189
+    second: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1151
+        width: 322
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3708721975c4b2f0800000000000000
+      internalID: -957923696931502276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1097
+        width: 295
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8855a89d5edc89e40800000000000000
+      internalID: 5663502918499325320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1196
+        width: 342
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a37fc7f0cbf410800000000000000
+      internalID: 1512014270482851764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 752
+        width: 395
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e309ea96586730800000000000000
+      internalID: 3992536292998244690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 760
+        width: 408
+        height: 586
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522d6642e77fc2cb0800000000000000
+      internalID: -4887259374455172571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 758
+        width: 357
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119d303ef69b3d60800000000000000
+      internalID: 7871050792235274512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 771
+        width: 290
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078c688a277eff1c0800000000000000
+      internalID: -4467597825688549264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 960
+        width: 198
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465e02d22b1eb7a40800000000000000
+      internalID: 5367131536319636836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 950
+        width: 375
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce312ed5cf6230b0800000000000000
+      internalID: -5750410878572740916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 758
+        width: 333
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4546f37fc2290ac00800000000000000
+      internalID: 909887846553183316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 761
+        width: 379
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a2ed3ac0c04cd00800000000000000
+      internalID: 991931066356738616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 514
+        width: 711
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02c1fe5de528ae20800000000000000
+      internalID: 3361978823262454286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 513
+        width: 714
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defdaf1691f5d5cd0800000000000000
+      internalID: -2567791649908662291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 514
+        width: 711
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf548f074b7b6b0800000000000000
+      internalID: -5280553640773944649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 426
+        width: 712
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9782722a39873900800000000000000
+      internalID: 664150352839477148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 426
+        width: 714
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e974eb763a7f36aa0800000000000000
+      internalID: -6168814783375194210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 427
+        width: 712
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d82e77119c5880800000000000000
+      internalID: -8620856056607091242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 176
+        width: 713
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba1f096afa0db890800000000000000
+      internalID: -7440778938725492039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 174
+        width: 712
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58713f3aa8c3201d0800000000000000
+      internalID: -3386077403675420795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 174
+        width: 713
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6b7f49cda5b19f0800000000000000
+      internalID: -496703430455740741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 60
+        width: 712
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffe11d479961ebd0800000000000000
+      internalID: -2602683011089436685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 60
+        width: 712
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9b0bac0bcb4360800000000000000
+      internalID: 7155035688277875902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2002.i505.013.P.m005.c25.game landscapes set-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 60
+        width: 713
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7135589161348c80800000000000000
+      internalID: -8321471916236525189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8014d81670a7a4745b14b42c993d91a6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_0: -957923696931502276
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_1: 5663502918499325320
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_10: 991931066356738616
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_11: 3361978823262454286
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_12: -2567791649908662291
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_13: -5280553640773944649
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_14: 664150352839477148
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_15: -6168814783375194210
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_16: -8620856056607091242
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_17: -7440778938725492039
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_18: -3386077403675420795
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_19: -496703430455740741
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_2: 1512014270482851764
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_20: -2602683011089436685
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_21: 7155035688277875902
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_22: -8321471916236525189
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_3: 3992536292998244690
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_4: -4887259374455172571
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_5: 7871050792235274512
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_6: -4467597825688549264
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_7: 5367131536319636836
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_8: -5750410878572740916
+      2002.i505.013.P.m005.c25.game landscapes set-Photoroom_9: 909887846553183316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
